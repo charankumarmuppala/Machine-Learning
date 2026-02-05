@@ -14,6 +14,8 @@ Day 6: Clean data = strong models. Learned handling missing values & duplicates.
 
 Day 7: GroupBy, merge, join — Pandas is insanely powerful! 🔗#DataWrangling
 
+Day 8: First step of any project — understand the data. Shape, info, stats… everything matters! 🔍 #EDA"
+
 
 
 

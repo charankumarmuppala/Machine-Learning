@@ -16,7 +16,7 @@ Day 7: GroupBy, merge, join — Pandas is insanely powerful!#DataWrangling
 
 Day 8: First step of any project — understand the data. Shape, info, stats… everything matters! #EDA
 
-Day 9: Spotted and handled outliers using IQR and Z-score. Outliers tell stories! 📉 #DataScience
+Day 9: Spotted and handled outliers using IQR and Z-score. Outliers tell stories! #DataScience
 
 
 

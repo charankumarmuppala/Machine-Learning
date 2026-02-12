@@ -20,7 +20,7 @@ Day 9: Spotted and handled outliers using IQR and Z-score. Outliers tell stories
 
 Day 10: Visualizing data with Matplotlib today. Turning numbers into insights.#DataVisualization
 
-Day 11: Seaborn makes everything beautiful. Heatmaps, pairplots & more! #Seaborn        
+Day 11: Seaborn makes everything beautiful. Heatmaps, pairplots & more! #Seaborn            
 
 
 
